@@ -1,6 +1,6 @@
 # bonobo-selenium (see github.com/python-bonobo/bonobo-selenium)
 
-from edgy.project import require
+from medikit import require
 
 pytest = require('pytest')
 python = require('python')
